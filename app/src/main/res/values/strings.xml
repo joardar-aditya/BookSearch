@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <!-- Main Activity Translatable String -->
+    <string name="book_name_search">Enter the name of the subject/author/topic etc... </string>
+    <string name="search_button">Search</string>
+
+
+
+</resources>
